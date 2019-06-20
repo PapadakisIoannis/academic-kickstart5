@@ -77,3 +77,10 @@ subtitle = ""
  css_class = ""
 +++
 
+
+**The Labour Lock-In Effect of Automation:**  
+ Evidence from Patents in US Local Labour Markets <br>
+
+**Abstract:** This paper estimates the effect of automation on labour turnover and wage growth. It employs a fixed effects model and instruments automation a la Bartik. The findings suggest that 1) automation decreases the labour turnover making work more stable, 2) this insulation effect of automation comes at the expense of the wage growth. Intrestingly, 3) the adjustment to automation is at the hiring margin, and 4) the direct effect is slightly larger; that is, workers at the age of entering the labour force are more adversely affected compared to the incumbent workers who are only in-directly affected due to the threat of a lower probability of finding a job after being laid off. 
+
+Keywords: Automation, Patents, Labour Flows, Job Flows, Commuting Zones, United States, Bartik 
