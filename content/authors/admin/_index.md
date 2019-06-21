@@ -28,16 +28,16 @@ interests:
 
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: Queen Mary University University of London
     year: expected
-  - course: MSc in Economics
+  - course: M.Res. in Economics
     institution: Queen Mary University University of London
     year: 2018
-  - course: MSc in Economics
+  - course: M.Sc. in Economics
     institution: University of Warwick
     year: 2017
-  - course: BSc in Economics
+  - course: B.Sc. in Economics
     institution: National and Kapodistrian University of Athens
     year: 2016
 
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "i.papadakis@qmul.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/papadakisgiann1
