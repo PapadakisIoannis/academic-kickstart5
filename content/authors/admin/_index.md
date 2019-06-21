@@ -71,7 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I am a <a href="https://www.qmul.ac.uk/sef/staff/yannispapadakis.html">PhD Candidate in Economics</a> at the Queen Mary University of London in the School of Economics and Finance.
+I am a <a href="https://www.qmul.ac.uk/sef/staff/yannispapadakis.html">PhD Candidate in Economics</a> at the Queen Mary <br>
+University of London in the School of Economics and Finance.
 I also work  as a <a href="https://cep.lse.ac.uk/_new/staff/person.asp?id=10657">Research Assistant</a>  at the Centre for Economic Performance of the London School of Economics. 
 
 My main supervisors are Prof. Gino Gancia and Dr. Tim Lee.
